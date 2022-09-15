@@ -1,0 +1,22 @@
+ 1.below to the command the check git version
+ git --version
+ git -v
+
+ 2. below to the command the check create git file
+git mkdir myproject
+cd myproject
+git clone https://github.com/Bishtl/learn-java.git
+cd learn-java
+
+below is the command to open folder from command line to vscode
+code . 
+
+
+
+3. below to the command the check Configure Git 
+
+git config --global user.name "Rohit Bisht"
+git config --global user.email "bishtrohit256@gmail.com"
+
+4. Create a New Branch on GitHub
+
